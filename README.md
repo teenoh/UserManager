@@ -3,7 +3,7 @@
 ## Requirements : 
 *Docker* and *python3* is required to run commands.py script
 
-## Instructions : 
+## Setup : 
 
 Docker needs to be run as root, so enter root mode
 ```
